@@ -7,3 +7,17 @@ git commit : 웹 저장소에 올릴때
 git push
 C:\Users\nschang\Documents\GitHub\web_programming>git commit -m "Add Text File [gitTutorial.txt]"
 
+git status : 현재 상황 판단
+
+git log : commit 한 상황을 볼수 있음
+
+git reset --hard "commit 해시값"       // hard option 은 다 이전 commit 지워버림 
+example) get reset --hard 8aebd5479c10c73b6e570ba9f3df5569d12b7aa8
+
+git push -f 로 강제로 저장소로 올림
+
+git branch // 브렌치 확인
+
+git checkout "<branch name>"  // 브렌치 바꾸기
+
+
