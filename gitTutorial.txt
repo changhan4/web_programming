@@ -1,6 +1,6 @@
 1. chang Directory CD를 사용해 폴더로 이동
 
-git add : 파일을 넣을때 사용
+git add : 파일을 넣을때 사용   // git add . 사용
 C:\Users\nschang\Documents\GitHub\web_programming>git add gitTutorial.txt
 
 git commit : 웹 저장소에 올릴때
@@ -20,6 +20,10 @@ git branch // 브렌치 확인
 
 git checkout "<branch name>"  // 브렌치 바꾸기
 
+
 git merge "<branch name>"  // 브렌치 합치기
+
+함수 1 포함
+
 
 
